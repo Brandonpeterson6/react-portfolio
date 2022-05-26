@@ -16,7 +16,7 @@ function Portfolio() {
                 <p>An app that allows users to view and bid on potential work</p>
             </div>
             <div id="img4" class="img-container">
-              <a href="https://git.heroku.com/stumpme2.git">Stump-Me</a>
+              <a href="https://gentle-scrubland-60701.herokuapp.com/">Stump-Me</a>
               <p>A Trivia and Riddle game </p>
             </div>
             <div id="img5" class="img-container">
